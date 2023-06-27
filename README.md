@@ -23,3 +23,4 @@
 ### Contact Me:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27a0d9)](https://t.me/begemot_kotei)
 [![VK.com](https://img.shields.io/badge/-vk.com-090909?style=for-the-badge&logo=vk&logoColor=27a0d9)](https://vk.com/begemot_kotei)
+[![Yandex mail](https://img.shields.io/badge/-mail.yandex.ru-090909?style=for-the-badge&logo=mail.yandex&logoColor=27a0d9)](thehardkor@yandex.ru)
