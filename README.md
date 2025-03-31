@@ -1,14 +1,5 @@
 # Привет, меня зовут Илья!
 ---
-
-### :man_technologist: About Me:
-
-Я - начинающий backend-разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой интерес к разработке начался с последнего курса вуза. 
-После недолгой работы по специальности окончательно убедился в своём интересе к программированию. Начал глубже изучать вопрос, узнавать, какие есть яп и направления. В итоге мой выбор пал на java.
-Постоянно обучаюсь новому и развиваюсь в выбранной области, а самое главное – получаю от этого удовольствие!
-
-- :seedling: Завершил курс java-разработчик(10 месяцев) Яндекс Практикум!
-
 ### Languages and Tools:
 ![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=java&logoColor=e38873)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000000?style=for-the-badge&logo=spring&logoColor=90fd87)
