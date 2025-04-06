@@ -1,5 +1,3 @@
-# Привет, меня зовут Илья!
----
 ### Languages and Tools:
 ![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=java&logoColor=e38873)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000000?style=for-the-badge&logo=spring&logoColor=90fd87)
